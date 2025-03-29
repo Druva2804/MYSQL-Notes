@@ -1,5 +1,5 @@
 # MYSQL NOTES🔥🔥🔥
 
-### Complete Hand written Notes
+### Complete Hand written Notes.
 
 
