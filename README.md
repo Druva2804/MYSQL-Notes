@@ -1,5 +1,3 @@
 # MYSQL NOTES🔥🔥🔥
 
-### Complete Hand written Notes.
-
-
+### Its completely Hand written Notes.
